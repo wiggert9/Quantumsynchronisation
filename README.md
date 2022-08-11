@@ -1,3 +1,3 @@
 # Quantumsynchronisation
 
- Woop woop edit this
+ Files required to reproduce the plots in the thesis.
